@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI0Z2VlemIzeWYxdGg0aG54cDE3cml1NjlsNTI5cXZnbWIweWJ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gw3IWyGkC0rsazTi/giphy.gif
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 test
 <!--
